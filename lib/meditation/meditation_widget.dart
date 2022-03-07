@@ -643,29 +643,6 @@ class _MeditationWidgetState extends State<MeditationWidget> {
                     ),
                   ),
                 ),
-                FlutterFlowAudioPlayer(
-                  audio: Audio.network(
-                    metas: Metas(
-                      id: 'df3hg_-f9mc1j9r',
-                    ),
-                  ),
-                  titleTextStyle:
-                      FlutterFlowTheme.of(context).bodyText1.override(
-                            fontFamily: 'Poppins',
-                            fontWeight: FontWeight.w600,
-                          ),
-                  playbackDurationTextStyle:
-                      FlutterFlowTheme.of(context).bodyText1.override(
-                            fontFamily: 'Poppins',
-                            color: Color(0xFF9D9D9D),
-                            fontSize: 12,
-                          ),
-                  fillColor: Color(0xFFEEEEEE),
-                  playbackButtonColor:
-                      FlutterFlowTheme.of(context).primaryColor,
-                  activeTrackColor: Color(0xFF57636C),
-                  elevation: 4,
-                ),
                 Expanded(
                   child: StreamBuilder<List<MeditationsRecord>>(
                     stream: queryMeditationsRecord(),
@@ -695,7 +672,7 @@ class _MeditationWidgetState extends State<MeditationWidget> {
                             audio: Audio.network(
                               listViewMeditationsRecord.audio,
                               metas: Metas(
-                                id: 'df3hg_-clnyzp0m',
+                                id: 'df3hg_-pybkn003',
                               ),
                             ),
                             titleTextStyle:
