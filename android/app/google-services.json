@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1076812919432",
+    "project_id": "in-the-zone-7f937",
+    "storage_bucket": "in-the-zone-7f937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076812919432:android:6e948c8d220f38aede653d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.inthezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076812919432-gk5gnab2qdgbinhprc41bvcvtkfl4esg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.inthezone",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1076812919432-fa9klq62a5t60i96jjeq4htj91tv4uf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfaNF6maK25ToC-lXky6CZ3UDG9CaCmsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076812919432-fa9klq62a5t60i96jjeq4htj91tv4uf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1076812919432-80slto8d14j74tg4ckutcr2u08a5rdvk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "InTheZone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
