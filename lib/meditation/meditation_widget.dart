@@ -646,7 +646,7 @@ class _MeditationWidgetState extends State<MeditationWidget> {
                 FlutterFlowAudioPlayer(
                   audio: Audio.network(
                     metas: Metas(
-                      id: 'df3hg_-1h6tv56g',
+                      id: 'df3hg_-f9mc1j9r',
                     ),
                   ),
                   titleTextStyle:
@@ -695,7 +695,7 @@ class _MeditationWidgetState extends State<MeditationWidget> {
                             audio: Audio.network(
                               listViewMeditationsRecord.audio,
                               metas: Metas(
-                                id: 'df3hg_-89571b6u',
+                                id: 'df3hg_-clnyzp0m',
                               ),
                             ),
                             titleTextStyle:
